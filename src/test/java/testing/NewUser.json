@@ -1,0 +1,10 @@
+ {
+    "email": "sh@1.com",
+    "firstName": "shil1",
+    "lastName": "bhap2",
+    "mobile": [43243,543543],
+    "address": {
+        "flat": "d-342",
+        "city": "Pune"
+    }
+  }
